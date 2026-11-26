@@ -6,10 +6,6 @@ To implement a Multilayer Perceptron (MLP) neural network for
 handwritten digit classification using Python and evaluate its
 performance on the test dataset.
 
-> *Note:* The source page contains an inconsistent aim statement
-> mentioning K-Means clustering. The experiment title and algorithm
-> steps describe an MLP neural network, so this README follows the MLP
-> experiment.
 
 ## OVERVIEW
 
